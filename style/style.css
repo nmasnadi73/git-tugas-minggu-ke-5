@@ -1,0 +1,163 @@
+.banner {
+  background: url(../images/123.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.banner h1 {
+  font-size: 4rem;
+}
+
+.about hr {
+  background-color: green;
+  border-width: 2px;
+}
+
+.batas {
+  background-color: darkslategrey;
+  border-width: 20px;
+  width: 100%;
+}
+
+.achievement h1 {
+  text-align: center;
+}
+
+.achievement .row {
+  text-align: center;
+}
+
+.achievement .fa {
+  color: grey;
+}
+
+.news hr {
+  background-color: green;
+  border-width: 2px;
+  width: 20%;
+  margin-top: 30px;
+}
+
+.news .berita {
+  text-align: center;
+  margin-top: 160px;
+}
+
+.news .isi {
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.news h5 {
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 300px;
+  color: honeydew;
+  text-shadow: black;
+}
+
+.news p {
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: honeydew;
+  text-shadow: black;
+}
+
+.news .slide {
+  margin-top: 50px;
+}
+
+.utama {
+  margin-top: 50px;
+  background-color: grey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.utama .kemenag {
+  width: 40%;
+  height: auto;
+}
+
+.dukung {
+  margin-top: 10px;
+  background-color: grey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.dukung .mpk {
+  width: 30%;
+  height: auto;
+}
+
+.dukung .osim {
+  width: 30%;
+  height: auto;
+}
+
+.dukung .ambalan {
+  width: 30%;
+  height: auto;
+}
+
+.dukung .paskib {
+  width: 30%;
+  height: auto;
+}
+
+.dukung .remas {
+  width: 30%;
+  height: auto;
+}
+
+.dukung .atom {
+  width: 40%;
+  height: auto;
+}
+
+.contact {
+  background-color: #343a40;
+  text-align: center;
+}
+
+.contact .man {
+  width: 30%;
+  height: auto;
+  margin-top: 30%;
+}
+
+.contact h2 {
+  margin-bottom: 5%;
+}
+
+.contact .kontak {
+  text-align: start;
+  margin-top: 10%;
+  padding-left: 5%;
+}
+
+.contact .motto {
+  width: 80%;
+  height: auto;
+  margin: 25% 0%;
+}
+
+.copy {
+  background-color: #101010;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  justify-items: center;
+  padding: 8px;
+}
+/*# sourceMappingURL=style.css.map */
